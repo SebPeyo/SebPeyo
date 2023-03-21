@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sébastien Moreau</h1>
 <h3 align="center">An easy-going and curious Data Scientist from France</h3>
 
-- 📫 How to reach me **sebastien.moreau0209@gmail.com**
+I graduated from Le Wagon Paris Data Science bootcamp in 2022, where I learned a wide range of skills, including Data Analysis, Machine Learning, Deep Learning and Data Visualization. Since then, I have kept growing as a Data Scientist by participating on Data projects and by assisting on Data Science courses for new Le Wagon students.
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-moreau-3b05b5b4/)
+I am eager to keep learning about this fascinating field and applying my skills to real-world problems. You will find on this profile all the projects I have been participating in, so feel free to have a look and contact me if you have any questions or want to collaborate on a new project.
+
+Thank you for visiting!
+
+
+- 📫 How to reach me: **sebastien.moreau0209@gmail.com**
+
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-moreau-3b05b5b4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
