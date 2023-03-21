@@ -10,7 +10,7 @@ Thank you for visiting!
 
 - 📫 How to reach me: **sebastien.moreau0209@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-moreau-3b05b5b4/)
+- 📄 Know about my experiences: **[LinkedIn]** (https://www.linkedin.com/in/s%C3%A9bastien-moreau-3b05b5b4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
