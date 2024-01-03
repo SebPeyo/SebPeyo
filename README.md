@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien Moreau</h1>
 <h3 align="center">An easy-going and curious Data Scientist from France</h3>
 
-I graduated from Le Wagon Paris Data Science bootcamp in 2022, where I learned a wide range of skills, including Data Analysis, Machine Learning, Deep Learning and Data Visualization. Since then, I have kept growing as a Data Scientist by participating on Data projects and by assisting on Data Science courses for new Le Wagon students.
+I graduated from Le Wagon Paris Data Science bootcamp in 2022, where I learned a wide range of skills, including Data Analysis, Machine Learning, Deep Learning and Data Visualization. Since then, I have kept growing as a Data Analyst by participating on Data projects and by teaching on Data Science & Data Analysis courses for new Le Wagon students.
 
 I am eager to keep learning about this fascinating field and applying my skills to real-world problems. You will find on this profile all the projects I have been participating in, so feel free to have a look and contact me if you have any questions or want to collaborate on a new project.
 
